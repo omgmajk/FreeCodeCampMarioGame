@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Readme and workspace.">
+    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Window class start.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jade/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jade/Window.java" afterDir="false" />
     </list>
@@ -66,7 +66,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1674596431300</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Window class start.">
+      <created>1674597305231</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1674597305231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial push." />
     <MESSAGE value="Readme and workspace." />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme and workspace." />
+    <MESSAGE value="Window class start." />
+    <option name="LAST_COMMIT_MESSAGE" value="Window class start." />
   </component>
 </project>

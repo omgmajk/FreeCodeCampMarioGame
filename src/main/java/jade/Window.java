@@ -6,6 +6,7 @@ import org.lwjgl.glfw.GLFWErrorCallback;
 import org.lwjgl.opengl.GL;
 
 import static org.lwjgl.glfw.GLFW.*;
+import static org.lwjgl.opengl.GL11.glClearColor;
 import static org.lwjgl.system.MemoryUtil.NULL;
 
 public class Window {
@@ -70,10 +71,15 @@ public class Window {
             LWJGL detects the context that is current in the current thread, creates GLCapabilities instance and makes
             OpenGL bindings available for use.
          */
-        GL.createCapabilities()
+        GL.createCapabilities();
     }
 
     public void loop() {
+        while(!glfwWindowShouldClose(glfwWindow)) {
+            // Poll events
+            glfwPollEvents();
 
+            glClearColor(1.0f, 0.0f, 0.0f, 1.0f);
+        }
     }
 }
