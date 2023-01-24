@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Initial push.">
-      <changelist_data name="Mike Bäck" email="" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Readme and workspace.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jade/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jade/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="mike.baeck@protonmail.com" />
         <option value="Mike Bäck" />
       </list>
     </option>
@@ -60,7 +60,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1674590174118</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Readme and workspace.">
+      <created>1674596431300</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1674596431300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial push." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial push." />
+    <MESSAGE value="Readme and workspace." />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme and workspace." />
   </component>
 </project>
