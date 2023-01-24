@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Loop method start.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/jade/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jade/Window.java" afterDir="false" />
+    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Spelling fix.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1674597469184</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Spelling fix.">
+      <created>1674599761544</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1674599761544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +102,7 @@
     <MESSAGE value="Readme and workspace." />
     <MESSAGE value="Window class start." />
     <MESSAGE value="Loop method start." />
-    <option name="LAST_COMMIT_MESSAGE" value="Loop method start." />
+    <MESSAGE value="Spelling fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="Spelling fix." />
   </component>
 </project>
