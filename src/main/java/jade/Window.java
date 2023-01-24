@@ -67,7 +67,7 @@ public class Window {
 
         /*
             This line is critical for LWJGL's interoperation with GLFW's OpenGL context, or
-            any conext that is managed externally.
+            any context that is managed externally.
             LWJGL detects the context that is current in the current thread, creates GLCapabilities instance and makes
             OpenGL bindings available for use.
          */
