@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Spelling fix.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="a972a0b3-1537-446b-bdd0-3d1cb0d09f83" name="Changes" comment="Readme update.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jade/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jade/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1674599761544</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Readme update.">
+      <created>1674599853314</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1674599853314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
     <MESSAGE value="Window class start." />
     <MESSAGE value="Loop method start." />
     <MESSAGE value="Spelling fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Spelling fix." />
+    <MESSAGE value="Readme update." />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme update." />
   </component>
 </project>
